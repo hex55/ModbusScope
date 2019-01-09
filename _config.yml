@@ -17,6 +17,9 @@ baseurl:          '/ModbusScope'
 
 author:
   name:           'Jens Geudens'
+  
+tags_page:      false
+search_page:    false
 
 paginate:         5
 # paginate_path:    '/page:num'
