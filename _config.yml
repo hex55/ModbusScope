@@ -1,12 +1,11 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-remote_theme: fongandrew/hydeout
+remote_theme:     fongandrew/hydeout
 
 # Setup
 title:            ModbusScope
-tagline:          'The data logger using Modbus'
-description:      'Show data in real time via Modbus'
+description:      'Poll data using Modbus'
 url:              https://jgeudens.github.io/ModbusScope
 repo:             https://github.com/jgeudens/ModbusScope
 
