@@ -5,21 +5,17 @@ remote_theme: fongandrew/hydeout
 
 # Setup
 title:            ModbusScope
-tagline:          'The data loggr using Modbus'
+tagline:          'The data logger using Modbus'
 description:      'Show data in real time via Modbus'
 url:              https://jgeudens.github.io/ModbusScope
+repo:             https://github.com/jgeudens/ModbusScope
+
 baseurl:          '/ModbusScope'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
                   # sidebar_blog_link below.
-
-author:
-  name:           'Jens Geudens'
-  
-tags_page:      false
-search_page:    false
 
 paginate:         5
 # paginate_path:    '/page:num'
