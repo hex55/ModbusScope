@@ -1,0 +1,11 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+
+#sidebar .site-title {
+    font-size: 2.25rem;
+    font-family: "Open Sans", sans-serif;
+}
+
+@import "hydeout";
